@@ -16,7 +16,10 @@ The central part of the fAIRport use case is the development of an open standard
 The city of Langen (Germany) has agreed to participate in the use case as a stakeholder providing valuable input to develop the concept of the platform as well as to provide feedback to the platform requirements and functionality. 
 
 ### 1.2 Spatial Coverage
-Three pilot areas were identified based on the following criteria: 
+
+The fAIRport project itself is a project focused at the German airspace. Within the GO-PEG project, we expanded this focus to create cross-border datasets.
+
+Within Germany, three pilot areas (AOIs) were identified based on the following criteria: 
 -	Sufficient number of geoobjects with at least 100 objects for each object class and 
 -	Small AOI as to reduce the amount of data
 
@@ -30,11 +33,13 @@ A total of three AOIs were chosen including (see Figure 1):
 
 _Figure 1: fAIRport areas of interest (AOI)_
 
-While the focus of the use case is on no-fly zones in Germany, the potential of harmonising geo-data outside of the German territory should be evaluated. As such cross-border beyond visual line of sights (BVLOS) flights have been undertaken in the border triangle of the Netherlands, Belgium and Germany to simulate the harmonization of the drone no-fly zones across borders. 
+While the focus of the use case is on no-fly zones in Germany, the potential of harmonising geo-data outside of the German territory should be evaluated. As such cross-border beyond visual line of sights (BVLOS) flights have been undertaken in the border triangle of the Netherlands, Belgium and Germany to simulate the harmonization of the drone no-fly zones across borders. In the GO-PEG context, we also created a cross-border dataset derived from INSPIRE protected sites data then encompasses five countries (DE, AT, NL, BE, parts of CZ). The reason for this was that we wanted to show the re-useability of INSPIRE data, but also because this data would be available to share as open data without any constraints. Unfortunately, for the full UTM data sets, public sharing as open data is not yet possible.
 
 ## 2. Delivery Data Model
+
 ### 2.1 Selection and Design
 The data model developed in the project is to form the basis for the high-quality geodata set for UAV (“drones”) no-fly zones. The Fairport data model is based on the European ED-269 standard “Minimum Operational Performance Standard for UAS Geo-Fencing” (June 2020), which has been expanded to include components from the German DFS-GeoDM model. In addition, user requirements, which were determined in national stakeholder workshops, were integrated into the model.
+
 ### 2.2 Conceptual Mapping
 The fAIRport conceptual model was designed as a UML class model. It consists of a total of seven classes (see Figure 2):
 
@@ -125,7 +130,7 @@ A general challenge is to decide when a conceptual model can be considered „go
 
 We did several data transformation tests with national test data (e.g. GeoDM) as well as with cross-border data involving Germany, the Netherlands, Belgium, Luxembourg and Austria. For the model alignment and data mapping we use our open source ETL tool hale»studio.  A specific issue was the handling of IDs, because each of the standards that we had to align to has different requirements for persistent identifiers.
 
-## 3. Online Resource
+## 3. Online Resources
 ### 3.1 Download Services
 ### 3.2 View Services
 ### 3.3 Metadata
@@ -140,13 +145,21 @@ We did several data transformation tests with national test data (e.g. GeoDM) as
 ## 5. Tools used
 ### 5.1 Data model design
 For data model design hale studio 4.2 was used. The corresponding UML have been created with ARGO UML.
+
 ### 5.1	Analysis
-For data analysis [hale studio](https://wetransform.to/halestudio/) and [QGIS](https://www.qgis.org/) was used
+For data analysis, [hale studio](https://wetransform.to/halestudio/) and [QGIS](https://www.qgis.org/) was used.
+
 ### 5.2	Transformation
-For the transformation [hale studio](https://wetransform.to/halestudio/) was used.
+For the transformation, [hale studio](https://wetransform.to/halestudio/) was used.
+
 ### 5.3	Publication
+For the publication as network services, [hale connect](https://wetransform.to/haleconnect/) was used.
+
 ### 5.4	Metadata
+For the creation and publication of metadata, [hale connect](https://wetransform.to/haleconnect/) was used.
+
 ### 5.5	Issues with the tools and Feedback on tools
+Specific issues were documented in the [hale studio repository](https://github.com/halestudio/hale/issues).
 
 ## Links and References
 <a id="1">[1]</a> 
