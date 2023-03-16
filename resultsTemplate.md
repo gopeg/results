@@ -11,23 +11,11 @@
 ### 2.3 Data transformation
 ### 2.4 Challenges
 
-## 3. Online Resource
-### 3.1 Download Services
-### 3.2 View Services
-### 3.3 Metadata
-### 3.4 Portals
-
-## 4. Assessment of resources
-### 4.1 INSPIRE evaluation report
-### 4.2 MQA evaluation report
-### 4.3 FAIR evaluation report
-### 4.4 Summary
-
-## 5. Tools used
-### 5.1	Analysis
-### 5.2	Transformation
-### 5.3	Publication
-### 5.4	Metadata
-### 5.5	Issues with the tools and Feedback on tools
+## 3. Tools used
+### 3.1	Analysis
+### 3.2	Transformation
+### 3.3	Publication
+### 3.4	Metadata
+### 3.5	Issues with the tools and Feedback on tools
 
 ## References and Links
