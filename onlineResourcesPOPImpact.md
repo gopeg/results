@@ -5,11 +5,9 @@
 <http://csgs002.westeurope.cloudapp.azure.com/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?3&filter=false>
 ### 1.2 View Services
 <http://csgs002.westeurope.cloudapp.azure.com/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?3&filter=false>
-### 1.3 Metadata
-EDP:
+### 1.3 Metadata National Data Portal
 <https://data.europa.eu/api/hub/repo/datasets/es-gopeg-bu.rdf?useNormalizedId=true>
-### 1.4 Portals
-EDP:
+### 1.4 Metadata European Data Portal 
 <https://data.europa.eu/data/datasets/es-gopeg-bu?locale=en>
 ## 2. Assessment of resources
 ### 2.1 INSPIRE evaluation report
