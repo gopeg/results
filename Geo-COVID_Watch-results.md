@@ -13,8 +13,10 @@ For demo purposes, however, only Italian data are currently exposed.
 
 ## 2. Delivery Data Model
 Initiative database (exposed via API Feature service) underlaying model
+![image](https://user-images.githubusercontent.com/13329248/229091272-d6ba33c7-2962-47e2-98d3-97cb977a7d70.png)
 
 Case and country measures data (exposed via STA (SensorThings API) service) follow OGC STA Model
+![image](https://user-images.githubusercontent.com/13329248/229091389-60582422-d4d6-41c2-bedc-dcc12725466e.png)
 
 
 ### 2.3 Data transformation
