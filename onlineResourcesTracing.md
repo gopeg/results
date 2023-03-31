@@ -2,6 +2,8 @@
 
 ## 1. Online Resource
 ### 1.1 Download Services
+Direct download in GeoPackage format:  
+<https://projects.sadl.kuleuven.be/downloadfolder/go-peg/tracing-data/>  
 ### 1.2 View Services
 ### 1.3 Metadata
 ### 1.4 Portals
