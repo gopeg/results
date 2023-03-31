@@ -29,7 +29,15 @@ Italian INSPIRE catalogue
 
 ## 2. Assessment of resources
 ### 2.1 INSPIRE evaluation report
+
+![image](https://user-images.githubusercontent.com/13329248/229085004-9a27fd0d-8676-4f5a-b5eb-9ec772ad93f7.png)
+
+
 ### 2.2 MQA evaluation report
+
+![image](https://user-images.githubusercontent.com/13329248/229085375-3acd120b-96f4-4c13-937e-ccd7e069a035.png)
+
+
 ### 2.3 FAIR evaluation report
 <https://fair-enough.semanticscience.org/evaluations/fc460a58261d7c0b67cd199e61b520fecfa6d0aa>
 
