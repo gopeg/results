@@ -4,7 +4,7 @@
 ### 1.1 Download Services
 Direct download in GeoPackage format:  
 <https://projects.sadl.kuleuven.be/downloadfolder/go-peg/tracing-data/>  
-WFS:
+WFS:  
 https://geoserver.sdi.sadl.kuleuven.be/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?1&filter=false
 ### 1.2 View Services
 https://geoserver.sdi.sadl.kuleuven.be/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?1&filter=false
