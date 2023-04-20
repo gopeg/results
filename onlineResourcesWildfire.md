@@ -17,6 +17,9 @@ idee-es:
 ### 2.1 INSPIRE evaluation report
 <https://inspire.ec.europa.eu/validator/test-run/details.html?id=EID041fde5d-8c9c-4303-9408-5e176583ad82>
 ### 2.2 MQA evaluation report
+https://www.itb.ec.europa.eu/shacl/dcat-ap/upload
+
+Test April 2023: The metadata is DCAT-AP compliant.
 ### 2.3 FAIR evaluation report
 <https://fair-enough.semanticscience.org/evaluations/2b7fbcc3006e40569f503fea7c29e7dda4d4fe8f>
 ### 2.4 Summary
