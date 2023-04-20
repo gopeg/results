@@ -10,7 +10,7 @@ https://geoserver.sdi.sadl.kuleuven.be/geoserver/web/wicket/bookmarkable/org.geo
 https://geoserver.sdi.sadl.kuleuven.be/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?1&filter=false
 ### 1.3 Metadata
 ### 1.4 Portals
-
+Due to issues with the local (SADL, KU Leuven) Geonetwork instance, metadata are not available at the moment. Work is in progress to solve the problems or -if possible- as alternative to serve the metadata through data.vlaanderen.be. 
 ## 2. Assessment of resources
 ### 2.1 INSPIRE evaluation report
 ### 2.2 MQA evaluation report
