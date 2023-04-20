@@ -25,17 +25,9 @@ EDP: https://data.europa.eu/data/datasets/es-gopeg-bu?locale=es
 ### 2.2 MQA evaluation report
 https://www.itb.ec.europa.eu/shacl/dcat-ap/upload
 
-FAILURE  11 errors.
+Test April 2023: The metadata is DCAT-AP compliant.
 
-[First of 6 occurrences] Value must be an instance of skos:Concept
 
-[First of 2 occurrences] Value must be an instance of dcterms:Standard
-
-Does not have value spdx:checksumAlgorithm_sha1
-
-[First of 2 occurrences] Value must be an instance of dcterms:LinguisticSystem
-
-![image](https://user-images.githubusercontent.com/94920015/229061944-302d8de4-f0ff-469b-a51d-0debb24fce4b.png)
 ### 2.3 FAIR evaluation report
 URL: <https://fair-enough.semanticscience.org/evaluations/223c57f3cfb6e6116adc3e4696c1f596ac3319d7>
 
