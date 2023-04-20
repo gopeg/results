@@ -34,6 +34,9 @@ Italian INSPIRE catalogue
 
 
 ### 2.2 MQA evaluation report
+https://www.itb.ec.europa.eu/shacl/dcat-ap/upload
+
+Test April 2023: The metadata is DCAT-AP compliant.
 
 ![image](https://user-images.githubusercontent.com/13329248/229085375-3acd120b-96f4-4c13-937e-ccd7e069a035.png)
 
