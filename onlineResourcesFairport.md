@@ -12,6 +12,15 @@ EDP:
 ## 2. Assessment of resources
 ### 2.1 INSPIRE evaluation report
 ### 2.2 MQA evaluation report
+https://data.europa.eu/data/datasets/73b4aa43-6e9d-489e-bb2e-4b86cfd53617/quality?locale=de
+
+https://www.itb.ec.europa.eu/shacl/dcat-ap/upload
+
+Test April 2023: The metadata is DCAT-AP compliant.
+
 ### 2.3 FAIR evaluation report
+EDP:
+https://fair-enough.semanticscience.org/evaluations/6a677cf23445e88dd92ff789f79a4a084262a7c2
+
 ### 2.4 Summary
 
